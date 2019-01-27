@@ -4,7 +4,7 @@ So far all code has executed sequentially, the top line is evaluated then the ne
 
 #### The If Statement
 The if statement checks the condition it is given and if it is true it evaluates the code inside of it (the code that is tabbed over) and if it is not it moves on.
-```` python
+````python
 if condition: 
     print("Condition is true")
     

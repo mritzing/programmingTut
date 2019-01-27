@@ -12,7 +12,7 @@ Some examples of variables are:
 * String : A series of characters surrounded by single or double quotes : "A String"
 * Integer : A whole number  
 * Float : Floating point number, a number with a fractional value
-``` python
+```python
 	# True/False is case senstitive in python and are reserved words 
     testBool = True
     # This is a string
