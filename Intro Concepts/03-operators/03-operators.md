@@ -14,6 +14,7 @@ For getting started these are some of the operator types you should be aware of:
 * Logical
 
 #### Arithmetic
+
 | Operator | Name           | Example | Result                                                       |
 |----------|----------------|---------|--------------------------------------------------------------|
 | +        | Addition       | x+y     | Sum of x and y                                               |
@@ -26,6 +27,7 @@ For getting started these are some of the operator types you should be aware of:
 
 #### Assignment
 Assignment variables are shorthand for preforming other operations
+
 | Operator | Example | Description                                                                          | Expression |
 |----------|---------|--------------------------------------------------------------------------------------|------------|
 | +=       | x+=y    | Assigns the left value (x) to itself plus the right value (y)                        | x = x + y  |
@@ -37,6 +39,7 @@ Assignment variables are shorthand for preforming other operations
 
 #### Comparison
 Comparison operators are boolean expressions meaning that they will return either True or False
+
 | Operator | Example | Description                                                                          | Expression |
 |----------|---------|--------------------------------------------------------------------------------------|------------|
 | +=       | x+=y    | Assigns the left value (x) to itself plus the right value (y)                        | x = x + y  |
@@ -49,6 +52,7 @@ Comparison operators are boolean expressions meaning that they will return eithe
 #### Logical
 Logical operators are also boolean expressions, but logical operators preform comparisons on boolean values.  
 If you want to learn more about how these operators evaluate you can look up their truth tables (Google image search "and truth table").  
+
 | Operator | Example   | Result                        |
 |----------|-----------|-------------------------------|
 | and      | (x and y) | True if both x and y are true |
